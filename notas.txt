@@ -9,3 +9,6 @@ Tomate
 Tangerina
 Mamão
 Melancia
+Cebola
+Abobrinha
+Berinjela
