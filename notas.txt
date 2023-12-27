@@ -6,4 +6,6 @@ Bananas
 Maçãs
 Alface
 Tomate
-Cebola
+Tangerina
+Mamão
+Melancia
