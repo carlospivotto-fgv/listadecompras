@@ -1,4 +1,5 @@
-Feijão
+﻿Feijão
 Arroz
 Laranja
 Limão
+Bananas
