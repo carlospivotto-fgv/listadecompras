@@ -7,3 +7,5 @@ Maçãs
 Alface
 Tomate
 Cebola
+Abobrinha
+Berinjela
