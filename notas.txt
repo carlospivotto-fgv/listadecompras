@@ -3,3 +3,7 @@ Arroz
 Laranja
 Limão
 Bananas
+Maçãs
+Alface
+Tomate
+Cebola
